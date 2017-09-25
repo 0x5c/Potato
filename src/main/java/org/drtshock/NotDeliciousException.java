@@ -14,7 +14,4 @@ public class NotDeliciousException extends Exception {
         this.notDeliciousReason = notDeliciousReason;
     }
 
-    public NotDeliciousReason getReason() {
-        return notDeliciousReason;
-    }
 }

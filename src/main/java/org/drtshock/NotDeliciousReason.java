@@ -5,8 +5,7 @@ package org.drtshock;
  */
 public enum NotDeliciousReason {
     
-    UNDERCOOKED,
-    NOT_DELICIOUS_CONDIMENT,
-    EXPIRED_CONDIMENT
+    NOT_BAKED,
+    NOT_DELICIOUS_CONDIMENT
 
 }
